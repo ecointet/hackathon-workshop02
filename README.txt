@@ -5,7 +5,7 @@ BIND MY WEB APP TO A SERVICE
 ===============================
 
 ==== OJECTIVE =====
-Bin my simple application to a database
+Bind my simple application to a database
 
 ==== LANGUAGE =====
 PHP
